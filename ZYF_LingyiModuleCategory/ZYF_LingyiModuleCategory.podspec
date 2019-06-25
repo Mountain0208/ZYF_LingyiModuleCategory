@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.author       = { "zhuyafeng" => "859336389@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/Mountain0208/ZYF_LingyiModuleCategory", :tag => s.version}
-  s.source_files = "ZYF_LingyiModuleCategory/CTMediator/*.{h,m}"
+  s.source_files = "ZYF_LingyiModuleCategory/ZYF_LingyiModuleCategory/*.{h,m}"
   s.requires_arc = true
 
 end
